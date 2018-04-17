@@ -1,5 +1,3 @@
-# helloworld
-first project
-#first project on github
+my design portfolio website github. 
 
-hellloooo
+containing work for portfolio/ first project using html/css javascript
